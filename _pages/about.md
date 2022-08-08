@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ProjectD
+title: dietordiet
 permalink: /about
 comments: true
 ---
